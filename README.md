@@ -4,7 +4,7 @@ One file and three pillars that stop your AI agent from confidently building the
 
 **The idea in one line:** at every step, the agent works from what's actually true in your live systems — not from what a document claims, and not from what the model confidently assumes.
 
-Full write-up: [The Ground Truth Protocol on [LinkedIn]([url](https://www.linkedin.com/pulse/ground-truth-protocol-one-file-three-pillars-stopped-my-patrick-o-dabyc/)
+Full write-up: [[The Ground Truth Protocol on LinkedIn]([url](https://www.linkedin.com/feed/update/urn:li:activity:7483566171825336321/))]
 
 ## What's in this repo
 
